@@ -94,3 +94,75 @@ nav {
     height: 21vh;
     border-radius: 12px;
 }
+.wth {
+    background-color: #F4F8FB;
+    height: 105px;
+    width: 105px;
+    border-radius: 10px;
+}
+.wth img {
+    height: auto;
+    width: 95%;
+}
+.wth img:hover {
+    transform: scale(1.04);
+}
+.wtht {
+    display: grid;
+    align-items: center;
+}
+.wtht a {
+    text-decoration: none;
+    font-size: 15px;
+    color: black;
+}
+.wtt {
+    margin-left: -75px;
+}
+.wtx a {
+    margin-left: -75px;
+}
+.wtt p {
+    font-weight: bold;
+    color: #027b61;
+    font-size: 15px;
+}
+.wtt del {
+    margin-left: -220px;
+    font-size: small;
+    font-weight: bold;
+}
+.img_shadow img {
+    width: 100%;
+    border-radius: 11px;
+}
+.img_shadow {
+    margin:  0 !important;
+    border-radius: 11px;
+}
+figure {
+    box-sizing: border-box;
+}
+.img_shadow:hover {
+    transform: scale(1.014);
+    transition: .6s;
+}
+/* product section end */
+/* product categories start */
+.ctar img {
+    height: auto;
+    width: 110%;
+}
+.ctar img:hover {
+    transform: scale(1.05);
+    transition: .6s;
+}
+.ctrimg {
+    border: 2px solid rgb(215, 225, 225);
+    padding: 27px 30px;
+    margin: 0px 30px;
+    border-radius: 50px;
+}
+.ctrimg:hover {
+    border: 2px solid #EE674E;
+}
