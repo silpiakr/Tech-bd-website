@@ -206,3 +206,87 @@ figure {
     justify-content: center;
     align-items: center;
 }
+.imgbg {
+    background-color: #F4F8FB;
+    height: auto;
+    width: 180px;
+    margin-top: 25px;
+    border-radius: 10px;
+}
+.imgbg p {
+    background-color: #EE674E;
+    color: white;
+    width: 35%;
+    font-size: 13px;
+    font-weight: 500;
+    text-align: center;
+    border-radius: 7px;
+    padding: 2px;
+    margin: 8px 0px 0px 10px;
+    position: absolute;
+}
+.card {
+    margin: 10px;
+}
+.txx {
+    color: #027b61;
+    padding: 0px 10px;
+}
+/* first product carousel end */
+/* offer image section star */
+.eid-img img {
+    height: 200px;
+    width: 100%;
+    border-radius: 10px;
+}
+.eid-img img:hover {
+    transform: scale(1.010);
+    transition: .5s;
+}
+/* offer image section end */
+/* eid offer1 image start */
+.eid img {
+    height: auto;
+    width: 100%;
+    border-radius: 10px;
+}
+.eid img:hover {
+    transform: scale(1.010);
+    transition: .5s;
+}
+/* eid offer1 image end */
+/* logo area start */
+.scc {
+    background-color: #f4f4f4;
+}
+.txlogo h2 {
+    text-align: center;
+    margin-left: 120px;
+    color: #EE674E;
+}
+.logimg img {
+    height: 80px;
+    width: 120%;
+    border-radius: 10px;
+}
+.logimg img:hover {
+    transform: scale(1.010);
+    transition: .5s;
+}
+.md-btn {
+    background-color: #EE674E;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    border-radius: 10px;
+}
+.md-btn:hover {
+    background-color: #d63f25;
+}
+/* logo area end */
+/* feature section start  */
+.fe {
+    background-color: rgb(255, 255, 255);
+    display: grid;
+    justify-content: center;
+}
