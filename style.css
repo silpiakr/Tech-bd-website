@@ -1,0 +1,96 @@
+* {
+    margin: 0;
+	font-family: 'Poppins', sans-serif;
+}
+/* header start */
+nav {
+    background-color: #f4f8fb;
+}
+.navbar-brand img {
+    margin-left: -30px;
+}
+.srh {
+    border-radius: 50px;
+    width: 80vh;
+    padding: 8px 20px;
+    color: rgb(183, 183, 183);
+    font-size: 20px;
+}
+.glass {
+    background-color: #EE674E;
+    height: 33px;
+    width: 33px;
+    padding: 9px 0px 0px 9px;
+    border-radius: 50%;
+    color: white;
+    margin: 7px 0px 0px -48px;
+}
+.glass:hover {
+    background-color:#027e61;;
+}
+.navico i {
+    color: #EE674E;
+    font-size: 20px;
+    background-color: #ebd2cef7;
+    height: 45px;
+    width: 45px;
+    margin-left: 10px;
+    padding: 14px 0px 0px 14px;
+    border-radius: 50%;
+
+}
+.navico i:hover {
+    color: white;
+    background-color: #EE674E;
+}
+.bdg {
+    font-size: 12px;
+    font-weight: 400;
+    margin: 5px 0px 0px -10px;
+}
+.nvmenus {
+    background-color: #f4f8fb;
+    border-top: 1px solid rgb(217, 234, 228);
+    padding: 10px 0px;
+}
+.nvmenus a{
+    text-decoration: none;
+    color: black;
+    margin-left: 20px;
+    font-size: 17px;
+}
+.mnico {
+    font-size: 12px;
+    margin-left: 5px;
+}
+.crl img {
+    border-radius: 10px;
+}
+.crl:hover {
+    transform: scale(1.05);
+}
+.inr {
+    border-radius: 10px !important;
+}
+.inr:hover {
+    border-radius: 10px !important;
+}
+/* header end */
+/* product section start */
+.prdt {
+    background-image: url('Images/header-offer-bg.jpg');
+    height: 38vh;
+    width: 83%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 10px;
+}
+.hrr {
+    width: 97%;
+    color: rgb(174, 174, 174);
+}
+.prot {
+    background-color: #FFFFFF;
+    height: 21vh;
+    border-radius: 12px;
+}
