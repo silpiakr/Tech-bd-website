@@ -290,3 +290,136 @@ figure {
     display: grid;
     justify-content: center;
 }
+.allfe {
+    width: 100%;
+}
+.fee {
+    background-color: #FFFFFF;
+    padding: 0px 50px;
+    margin-top: -100px;
+    border-radius: 10px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+.circle h5 {
+    padding-top: 30px;
+    padding-right: 32px;
+    width: 200%;
+    font-size: 18px;
+    text-align: center;
+    margin-left: -32px;
+}
+.circle h5:hover {
+    color: #EE674E;
+}
+.circle i {
+    font-size: 30px;
+    color: #EE674E;
+    background-color: #ecf2f6;
+    padding: 30px 30px;
+    border-radius: 50px;
+}
+.circle i:hover {
+    color: #FFFFFF;
+    background-color: #EE674E;
+}
+/* feature section end */
+/* Article section start */
+.art h3 {
+    font-size: 23px;
+    font-weight: bolder;
+}
+.art p {
+    color: rgb(33, 33, 33);
+    font-size: 15px;
+    font-weight: lighter;
+}
+.clor {
+    color: #027b61;
+}
+/* Article section end */
+/* footer start */
+.mail button {
+    margin-left: -90px;
+    border: none;
+    background-color: #EE674E;
+    color: #FFFFFF;
+    width: 50%;
+    font-size: 15px;
+    border-radius: 0px 7px 7px 0px;
+}
+.mail input {
+    padding-right: 100px;
+}
+.lst i {
+    font-size: 50px;
+}
+.ftr {
+    background-color: #F4F8FB;
+    border-top: 1px solid #d3d7d6;
+}
+.lstx h4 {
+    font-size: 20px;
+    font-weight: bolder;
+}
+.lstx a {
+    text-decoration: none;
+    color: rgb(56, 54, 54);
+    font-size: 15px;
+    line-height: 30px;
+}
+.lstx a:hover {
+    color: #EE674E;
+}
+.lstx h5 {
+    font-size: 15px;
+    font-weight: bolder;
+}
+.as a {
+    color: #EE674E;
+}
+.icos i {
+    border: 1px solid  #d0d7d5;
+    font-size: 15px;
+    padding: 8px;
+    border-radius: 50px;
+    background-color: #FFFFFF;
+}
+.icos i:hover {
+    background-color: #111926;
+    color: white;
+}
+.box {
+    background-color: #EE674E;
+    width: 130%;
+    border-radius: 10px;
+    box-shadow: rgba(76, 76, 85, 0.2) 0px 7px 29px 0px;
+}
+.box i {
+    color: #FFFFFF;
+    font-size: 30px;
+}
+.ppa {
+    padding: 17px 8px;
+}
+.teex h6 {
+    color: #FFFFFF;
+    font-size: 14px;
+}
+.teex h5 {
+    color: #FFFFFF;
+    font-size: 13px;
+}
+.iimg img {
+    height: auto;
+    width: 50%;
+}
+.hss {
+    margin-left: 100px;
+    cursor: pointer;
+}
+.aro {
+    color: #EE674E;
+    font-size: 30px;
+    cursor: pointer;
+}
+/* footer end */
