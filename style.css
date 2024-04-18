@@ -166,3 +166,43 @@ figure {
 .ctrimg:hover {
     border: 2px solid #EE674E;
 }
+.ctar h4 {
+    font-size: 20px;
+    font-weight: bold;
+    color: black;
+    text-align: center;
+    margin-top: 20px;
+}
+.ctar h4:hover {
+    color: #EE674E;
+}
+/* product categories end */
+/* first product carousel start */
+.allcrl1 {
+    background-color: #F4F8FB;
+    border-radius: 10px;
+}
+.ctl1tx h4 {
+    color: black;
+}
+.btn-view {
+    border:  1px solid #EE674E;
+    border-radius: 7px;
+    color: #EE674E;
+    font-size: 16px;
+    padding: 3px 12px;
+    margin-left: 48px;
+}
+.btn-view:hover {
+    background-color: #EE674E;
+    color: white;
+}
+.imgbg img:hover {
+    transform: scale(1.04);
+    transition: .5s;
+}
+.pbg {
+    display: grid;
+    justify-content: center;
+    align-items: center;
+}
